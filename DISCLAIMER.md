@@ -1,6 +1,3 @@
-# rainbow-roles-bot
-Rainbow role bot...pretty e-z
-
 ## Note:
 Rainbow roles bot have the pottentional to get you banned from the API for API spam. With that in mind, the only reason I programmed this was out of boredom, really. However, I did add a few 'safety' checks if you will:
 1) The bot will only change each role's color once each hour.
